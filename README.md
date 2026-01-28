@@ -1,6 +1,6 @@
 # ELT-578 – Projeto Final | Visão Computacional
 
-Aluno: Mateus Rabelo Horta
+Aluno: Mateus Rabelo Horta 82830
 Disciplina: ELT 578 – Análise de Imagens e Visão Computacional
 Curso: Pós-Graduação em Inteligência Artificial
 Instituição: Universidade Federal de Viçosa (UFV)
